@@ -1,3 +1,7 @@
+
+
+
+
 # Gestion des Étudiants — Android SQLite
 
 Application Android de gestion des étudiants avec base de données SQLite embarquée.
@@ -21,3 +25,7 @@ Application Android de gestion des étudiants avec base de données SQLite embar
 3. Lancer sur un émulateur ou un appareil physique
 
 ## Demo
+
+
+https://github.com/user-attachments/assets/1b5415df-bd4c-4a65-900b-be65bf8b045d
+
